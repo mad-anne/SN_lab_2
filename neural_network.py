@@ -16,20 +16,28 @@ class MultiLayerPerceptron:
         self.act_func = act_func
         self.bias = np.ones((1, 1))
 
+    def predict(self, data):
+        outputs = self._predict(data)
+        return np.argmax(outputs[-1])
+
     def learn(self, data_set, epochs):
         for _ in range(epochs):
             self._learn_epoch(data_set)
 
     def _learn_epoch(self, data_set):
         for data in data_set:
-            pass
+            self._backpropagate(self._predict(data.data), data.output, data.data)
 
-    def _get_error(self, result, target):
-        return np.multiply(np.power(np.subtract(target, result), 2), 0.5)
+    def _backpropagate(self, outputs, target, inputs):
+        inputs = np.column_stack((inputs, self.bias))
+        output = np.column_stack((outputs[-2], self.bias))
 
-    def predict(self, data):
-        outputs = self._predict(data)
-        return np.argmax(outputs[-1])
+        l2_delta = (target - outputs[-1]) * (outputs[-1] * (1 - outputs[-1]))
+        l1_delta = np.dot(l2_delta, self.weights_2.transpose()) * (output * (1 - output))
+        l1_delta = np.reshape(np.delete(l1_delta, l1_delta.shape[1] - 1), (1, l1_delta.shape[1] - 1))
+
+        self.weights_2 += np.dot(output.transpose(), l2_delta)
+        self.weights_1 += np.dot(inputs.transpose(), l1_delta)
 
     def _predict(self, data):
         output_hidden = _feed_forward_layer(np.column_stack((data, self.bias)), self.weights_1, self.act_func)

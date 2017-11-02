@@ -5,12 +5,17 @@ from PIL import Image
 CLASSES = 10
 
 
+def _get_output_pattern(label):
+    output = np.zeros(CLASSES)
+    output[label] = 1
+    return np.reshape(output, (1, CLASSES))
+
+
 class Data:
     def __init__(self, data, label, filename):
         self.data = np.reshape(np.array(data), (1, len(data)))
         self.label = int(label)
-        self.output = np.zeros(CLASSES)
-        self.output[self.label] = 1
+        self.output = _get_output_pattern(self.label)
         self.filename = filename
 
 
