@@ -13,6 +13,13 @@
     "step": 0.05
   },
 
+  "momentum": {
+    "value": 0.9,
+    "min": 0.0,
+    "max": 1.0,
+    "step": 0.1
+  },
+
   "weightsDeviation": {
     "value": 1,
     "min": 0.0,
