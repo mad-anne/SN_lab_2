@@ -15,16 +15,25 @@ class MultiLayerPerceptron:
         self.bias = np.ones((1, 1))
         self.weights_1 = 2 * np.random.rand(self.features + 1, self.hidden_neurons) - 1
         self.weights_2 = 2 * np.random.rand(self.hidden_neurons + 1, self.classes) - 1
+        self.errors_sum = 0
 
     def predict(self, data):
         outputs = self._predict(data)
         return np.argmax(outputs[-1])
 
-    def learn(self, train_set, epochs):
+    def learn(self, train_set, epochs, min_mse):
         data_set = train_set
-        for _ in range(epochs):
+        for epoch in range(epochs):
+            self.errors_sum = 0
             np.random.shuffle(data_set)
             self._learn_epoch(data_set)
+            mse = self.errors_sum / len(data_set)
+            if self._has_stop_criterion_met(mse, min_mse):
+                return epoch + 1
+        return epochs
+
+    def validate(self, data_set):
+        return sum([data.label == self.predict(data.data) for data in data_set]) / len(data_set)
 
     def init_weights(self, deviation):
         self.weights_1 = 2 * deviation * np.random.rand(self.features + 1, self.hidden_neurons) - deviation
@@ -35,6 +44,8 @@ class MultiLayerPerceptron:
             self._backpropagate(self._predict(data.data), data.output, data.data)
 
     def _backpropagate(self, outputs, target, inputs):
+        self.errors_sum += sum(np.power(outputs[-1] - target, 2)[0])
+
         inputs = np.column_stack((inputs, self.bias))
         output = np.column_stack((outputs[-2], self.bias))
 
@@ -50,5 +61,5 @@ class MultiLayerPerceptron:
         output = _feed_forward_layer(np.column_stack((output_hidden, self.bias)), self.weights_2, self.act_func)
         return output_hidden, output
 
-    def validate(self, data_set):
-        return sum([data.label == self.predict(data.data) for data in data_set]) / len(data_set)
+    def _has_stop_criterion_met(self, mse, min_mse):
+        return mse <= min_mse

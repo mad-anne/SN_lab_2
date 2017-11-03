@@ -12,23 +12,25 @@ def get_range(param):
     return _get_range(param["min"], param["max"], param["step"])
 
 
-def cross_validate(classifier, data_set, k, weights_deviation, epochs):
+def cross_validate(classifier, data_set, k, weights_deviation, epochs, min_mse):
     test_size = len(data_set) / k
     np.random.shuffle(data_set)
     left_index = 0
     right_index = test_size
-    results = []
+    _accuracies = []
+    _epochs = []
     for k in range(k):
         train_set = data_set[:int(left_index)] + data_set[int(right_index):]
         test_set = data_set[int(left_index):int(right_index)]
         classifier.init_weights(weights_deviation)
-        classifier.learn(train_set=train_set, epochs=epochs)
-        results.append(classifier.validate(data_set=test_set))
-        print(f'Cross validation k = {k} with accuracy {results[-1]}')
+        _epochs.append(classifier.learn(train_set=train_set, epochs=epochs, min_mse=min_mse))
+        _accuracies.append(classifier.validate(data_set=test_set))
+        print(f'Cross validation k = {k} with accuracy {_accuracies[-1]} and {_epochs[-1]} epochs')
         left_index = right_index
         right_index += test_size
-    mean_accuracy = sum(results) / len(results)
-    return mean_accuracy
+    mean_accuracy = sum(_accuracies) / len(_accuracies)
+    mean_epochs = sum(_epochs) / len(_epochs)
+    return mean_accuracy, mean_epochs
 
 
 params = read_parameters('parameters.json')
@@ -48,15 +50,16 @@ mlp = MultiLayerPerceptron(
 
 print('Learning neural network...')
 
-accuracy = cross_validate(
+accuracy, epochs = cross_validate(
     classifier=mlp,
     data_set=data_set,
     k=params['validations'],
     weights_deviation=params['weightsDeviation']['value'],
-    epochs=params['epochs']
+    epochs=params['epochs'],
+    min_mse=params['minMSE']
 )
 
-print(f'Accuracy is {accuracy*100}%')
+print(f'Accuracy is {accuracy*100}% with mean {epochs} epochs')
 
 alpha_range = get_range(params['alpha'])
 weights_deviation_range = get_range(params['weightsDeviation'])

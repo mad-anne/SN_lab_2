@@ -1,5 +1,5 @@
 {
-  "minMSE": 0.06,
+  "minMSE": 0.05,
   "epochs": 1000,
   "validations": 10,
 
