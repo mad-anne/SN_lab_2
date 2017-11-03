@@ -19,16 +19,19 @@ class Data:
         self.filename = filename
 
 
-def _get_data_set_filenames(dir, ext):
-    return [filename for filename in os.listdir(dir) if filename.endswith(ext)]
+def _get_data_set_filenames(directory, ext):
+    return [filename for filename in os.listdir(directory) if filename.endswith(ext)]
 
 
-def _get_image_data(dir, filename):
-    im = Image.open(dir + filename, 'r').convert('1')
+def _get_image_data(directory, filename):
+    im = Image.open(directory + filename, 'r').convert('1')
     data = [int(d == 255) for d in list(im.getdata())]
     label = filename[0]
     return Data(data, label, filename)
 
 
-def read_data_set(dir, ext):
-    return [_get_image_data(dir, fn) for fn in _get_data_set_filenames(dir, ext)]
+def read_data_set(directory, ext):
+    return [
+        _get_image_data(directory, fn)
+        for fn in _get_data_set_filenames(directory, ext)
+    ]

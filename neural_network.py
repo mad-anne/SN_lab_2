@@ -11,18 +11,24 @@ class MultiLayerPerceptron:
         self.classes = classes
         self.hidden_neurons = hidden_neurons
         self.learning_rate = learning_rate
-        self.weights_1 = 2 * np.random.rand(features + 1, hidden_neurons) - 1
-        self.weights_2 = 2 * np.random.rand(hidden_neurons + 1, classes) - 1
         self.act_func = act_func
         self.bias = np.ones((1, 1))
+        self.weights_1 = 2 * np.random.rand(self.features + 1, self.hidden_neurons) - 1
+        self.weights_2 = 2 * np.random.rand(self.hidden_neurons + 1, self.classes) - 1
 
     def predict(self, data):
         outputs = self._predict(data)
         return np.argmax(outputs[-1])
 
-    def learn(self, data_set, epochs):
+    def learn(self, train_set, epochs):
+        data_set = train_set
         for _ in range(epochs):
+            np.random.shuffle(data_set)
             self._learn_epoch(data_set)
+
+    def init_weights(self, deviation):
+        self.weights_1 = 2 * deviation * np.random.rand(self.features + 1, self.hidden_neurons) - deviation
+        self.weights_2 = 2 * deviation * np.random.rand(self.hidden_neurons + 1, self.classes) - deviation
 
     def _learn_epoch(self, data_set):
         for data in data_set:
@@ -43,3 +49,6 @@ class MultiLayerPerceptron:
         output_hidden = _feed_forward_layer(np.column_stack((data, self.bias)), self.weights_1, self.act_func)
         output = _feed_forward_layer(np.column_stack((output_hidden, self.bias)), self.weights_2, self.act_func)
         return output_hidden, output
+
+    def validate(self, data_set):
+        return sum([data.label == self.predict(data.data) for data in data_set]) / len(data_set)
