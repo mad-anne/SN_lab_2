@@ -35,6 +35,7 @@ def cross_validate(classifier, data_set, k, weights_deviation, epochs, min_mse, 
         right_index += test_size
     mean_accuracy = sum(_accuracies) / len(_accuracies)
     mean_epochs = sum(_epochs) / len(_epochs)
+    print(f'Learned network with mean: accuracy = {mean_accuracy}, epochs = {mean_epochs}')
     return mean_accuracy, mean_epochs
 
 
@@ -63,7 +64,7 @@ def research_alphas(data_set, params, act_func):
         accuracies.append(acc * 100)
         epochs.append(e)
     save_plot(alpha_range, accuracies, 'współczynnik uczenia', 'dokładność [%]', 'alpha')
-    save_plot(alpha_range, accuracies, 'współczynnik uczenia', 'liczba epok', 'alpha_epochs')
+    save_plot(alpha_range, epochs, 'współczynnik uczenia', 'liczba epok', 'alpha_epochs')
 
 
 def research_weights(data_set, params, act_func):
@@ -91,7 +92,7 @@ def research_weights(data_set, params, act_func):
         accuracies.append(acc * 100)
         epochs.append(e)
     save_plot(weights_range, accuracies, 'odchylenie wag początkowych', 'dokładność [%]', 'weights')
-    save_plot(weights_range, accuracies, 'odchylenie wag początkowych', 'liczba epok', 'weights_epochs')
+    save_plot(weights_range, epochs, 'odchylenie wag początkowych', 'liczba epok', 'weights_epochs')
 
 
 def research_hidden_neurons(data_set, params, act_func):
@@ -119,7 +120,7 @@ def research_hidden_neurons(data_set, params, act_func):
         accuracies.append(acc * 100)
         epochs.append(e)
     save_plot(hidden_neurons_range, accuracies, 'liczba neuronów w warstwie ukrytej', 'dokładność [%]', 'neurons')
-    save_plot(hidden_neurons_range, accuracies, 'liczba neuronów w warstwie ukrytej', 'liczba epok', 'neurons_epochs')
+    save_plot(hidden_neurons_range, epochs, 'liczba neuronów w warstwie ukrytej', 'liczba epok', 'neurons_epochs')
 
 
 def research_momentum(data_set, params, act_func):
@@ -147,7 +148,7 @@ def research_momentum(data_set, params, act_func):
         accuracies.append(acc * 100)
         epochs.append(e)
     save_plot(momentum_range, accuracies, 'momentum', 'dokładność [%]', 'momentum')
-    save_plot(momentum_range, accuracies, 'momentum', 'liczba epok', 'momentum_epochs')
+    save_plot(momentum_range, epochs, 'momentum', 'liczba epok', 'momentum_epochs')
 
 
 def research(data_set, params, act_func):

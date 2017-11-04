@@ -1,0 +1,107 @@
+Learning MLP with alpha = 0.005
+Learned network with mean: accuracy = 0.8687159277504104, epochs = 397.3
+
+Learning MLP with alpha = 0.01
+Learned network with mean: accuracy = 0.8601280788177341, epochs = 198.3
+
+Learning MLP with alpha = 0.015
+Learned network with mean: accuracy = 0.8566732348111659, epochs = 148.2
+
+Learning MLP with alpha = 0.02
+Learned network with mean: accuracy = 0.8630147783251232, epochs = 116.6
+
+Learning MLP with alpha = 0.025
+Learned network with mean: accuracy = 0.8572643678160918, epochs = 91.2
+
+Learning MLP with alpha = 0.030000000000000002
+Learned network with mean: accuracy = 0.8543645320197044, epochs = 82.1
+
+Learning MLP with alpha = 0.034999999999999996
+Learned network with mean: accuracy = 0.8589556650246305, epochs = 74.9
+
+Learning MLP with alpha = 0.04
+Learned network with mean: accuracy = 0.8670049261083743, epochs = 66.1
+
+Learning MLP with alpha = 0.045
+Learned network with mean: accuracy = 0.8641412151067323, epochs = 62.5
+
+Learning MLP with alpha = 0.049999999999999996
+Learned network with mean: accuracy = 0.8601182266009852, epochs = 63.8
+
+Learning MLP with alpha = 0.055
+Learned network with mean: accuracy = 0.8572249589490969, epochs = 53.8
+
+Learning MLP with alpha = 0.06
+Learned network with mean: accuracy = 0.8509326765188835, epochs = 50.7
+
+Learning MLP with alpha = 0.065
+Learned network with mean: accuracy = 0.8572545155993433, epochs = 53.4
+
+Learning MLP with alpha = 0.07
+Learned network with mean: accuracy = 0.8601247947454844, epochs = 55.0
+
+Learning MLP with alpha = 0.07500000000000001
+Learned network with mean: accuracy = 0.8561083743842364, epochs = 52.3
+
+Learning MLP with alpha = 0.08
+Learned network with mean: accuracy = 0.8606600985221675, epochs = 57.5
+
+Learning MLP with alpha = 0.085
+Learned network with mean: accuracy = 0.8475041050903119, epochs = 56.5
+
+Learning MLP with alpha = 0.09000000000000001
+Learned network with mean: accuracy = 0.8486600985221674, epochs = 58.7
+
+Learning MLP with alpha = 0.095
+Learned network with mean: accuracy = 0.851497536945813, epochs = 62.6
+
+Learning MLP with alpha = 0.1
+Learned network with mean: accuracy = 0.8520821018062396, epochs = 65.7
+
+Learning MLP with alpha = 0.10500000000000001
+Learned network with mean: accuracy = 0.8647093596059113, epochs = 85.8
+
+Learning MLP with alpha = 0.11
+Learned network with mean: accuracy = 0.8549458128078818, epochs = 98.2
+
+Learning MLP with alpha = 0.115
+Learned network with mean: accuracy = 0.8561247947454843, epochs = 92.8
+
+Learning MLP with alpha = 0.12000000000000001
+Learned network with mean: accuracy = 0.8452052545155995, epochs = 166.7
+
+Learning MLP with alpha = 0.125
+Learned network with mean: accuracy = 0.8515336617405584, epochs = 349.3
+
+Learning MLP with alpha = 0.13
+Learned network with mean: accuracy = 0.8302988505747126, epochs = 293.3
+
+Learning MLP with alpha = 0.135
+Learned network with mean: accuracy = 0.8176814449917899, epochs = 322.2
+
+Learning MLP with alpha = 0.14
+Learned network with mean: accuracy = 0.8360459770114943, epochs = 629.3
+
+Learning MLP with alpha = 0.14500000000000002
+Learned network with mean: accuracy = 0.8319967159277504, epochs = 673.7
+
+Learning MLP with alpha = 0.15
+Learned network with mean: accuracy = 0.833136288998358, epochs = 1000.0
+
+Learning MLP with alpha = 0.155
+Learned network with mean: accuracy = 0.8182594417077176, epochs = 917.4
+
+Learning MLP with alpha = 0.16
+Learned network with mean: accuracy = 0.8073628899835796, epochs = 1000.0
+
+Learning MLP with alpha = 0.165
+Learned network with mean: accuracy = 0.8165385878489326, epochs = 955.4
+
+Learning MLP with alpha = 0.17
+Learned network with mean: accuracy = 0.8101740558292283, epochs = 946.3
+
+Learning MLP with alpha = 0.17500000000000002
+Learned network with mean: accuracy = 0.7877996715927751, epochs = 1000.0
+
+Learning MLP with alpha = 0.18
+Learned network with mean: accuracy = 0.8137077175697867, epochs = 1000.0
