@@ -6,7 +6,7 @@ def _feed_forward_layer(inputs, weights, act_func):
 
 
 class MultiLayerPerceptron:
-    def __init__(self, features, classes, hidden_neurons, learning_rate, act_func):
+    def __init__(self, features, classes, hidden_neurons, act_func, learning_rate=0.01):
         self.features = features
         self.classes = classes
         self.hidden_neurons = hidden_neurons
@@ -23,7 +23,8 @@ class MultiLayerPerceptron:
         outputs = self._predict(data)
         return np.argmax(outputs[-1])
 
-    def learn(self, train_set, epochs, min_mse, momentum):
+    def learn(self, train_set, epochs, min_mse, momentum, learning_rate):
+        self.learning_rate = learning_rate
         data_set = train_set
         for epoch in range(epochs):
             self.errors_sum = 0
