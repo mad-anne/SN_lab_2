@@ -134,7 +134,7 @@ def research_momentum(data_set, params, act_func):
         act_func=act_func
     )
     for momentum in momentum_range:
-        print(f'Learning MLP with hidden neurons = {neurons}')
+        print(f'Learning MLP with momentum = {momentum}')
         acc, e = cross_validate(
             classifier=mlp,
             data_set=data_set,
