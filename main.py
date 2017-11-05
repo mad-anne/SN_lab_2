@@ -4,9 +4,11 @@ from parameters import read_parameters
 from researches import research
 import numpy as np
 
-params = read_parameters('parameters.json')
+if __name__ == "__main__":
+    params = read_parameters('parameters.json')
+    params['actFunc'] = SigmoidFunction()
 
-data_set = read_data_set(params["dataSetDir"], params["dataSetExt"])
-np.random.shuffle(data_set)
+    data_set = read_data_set(params['dataSetDir'], params['dataSetExt'])
+    np.random.shuffle(data_set)
 
-research(data_set, params, SigmoidFunction())
+    research(params, data_set)

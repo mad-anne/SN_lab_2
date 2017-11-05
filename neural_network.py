@@ -6,11 +6,17 @@ def _feed_forward_layer(inputs, weights, act_func):
 
 
 class MultiLayerPerceptron:
-    def __init__(self, features, classes, hidden_neurons, act_func, learning_rate=0.01):
+    def __init__(
+            self, features, classes, hidden_neurons, act_func, epochs, min_mse, momentum,
+            learning_rate, weights_deviation):
         self.features = features
         self.classes = classes
         self.hidden_neurons = hidden_neurons
+        self.epochs = epochs
+        self.min_mse = min_mse
+        self.momentum = momentum
         self.learning_rate = learning_rate
+        self.weights_deviation = weights_deviation
         self.act_func = act_func
         self.bias = np.ones((1, 1))
         self.weights_1 = 2 * np.random.rand(self.features + 1, self.hidden_neurons) - 1
@@ -23,22 +29,22 @@ class MultiLayerPerceptron:
         outputs = self._predict(data)
         return np.argmax(outputs[-1])
 
-    def learn(self, train_set, epochs, min_mse, momentum, learning_rate):
-        self.learning_rate = learning_rate
+    def learn(self, train_set):
         data_set = train_set
-        for epoch in range(epochs):
+        for epoch in range(self.epochs):
             self.errors_sum = 0
             np.random.shuffle(data_set)
-            self._learn_epoch(data_set, momentum)
+            self._learn_epoch(data_set, self.momentum)
             mse = self.errors_sum / len(data_set)
-            if self._has_stop_criterion_met(mse, min_mse):
+            if mse <= self.min_mse:
                 return epoch + 1
-        return epochs
+        return self.epochs
 
     def validate(self, data_set):
-        return sum([data.label == self.predict(data.data) for data in data_set]) / len(data_set)
+        return np.array([data.label == self.predict(data.data) for data in data_set]).mean()
 
-    def init_weights(self, deviation):
+    def init_weights(self):
+        deviation = self.weights_deviation
         self.weights_1 = 2 * deviation * np.random.rand(self.features + 1, self.hidden_neurons) - deviation
         self.weights_2 = 2 * deviation * np.random.rand(self.hidden_neurons + 1, self.classes) - deviation
 
@@ -75,6 +81,3 @@ class MultiLayerPerceptron:
         output_hidden = _feed_forward_layer(np.column_stack((data, self.bias)), self.weights_1, self.act_func)
         output = _feed_forward_layer(np.column_stack((output_hidden, self.bias)), self.weights_2, self.act_func)
         return output_hidden, output
-
-    def _has_stop_criterion_met(self, mse, min_mse):
-        return mse <= min_mse
