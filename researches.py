@@ -24,7 +24,7 @@ def validate(params):
     _epochs = classifier.learn(train_set=train_set)
     _accuracy = classifier.validate(data_set=test_set)
 
-    k = params['index']
+    k = params["index"]
     print(f'Cross validation k = {k} with accuracy {_accuracy} and {_epochs} epochs')
     return _accuracy, _epochs
 
@@ -49,7 +49,7 @@ def cross_validate(params, data_set):
             'index': k
         }
 
-    k = params['validations']
+    k = params['validations']['value']
     test_size = len(data_set) / k
     indices_ranges = [(i * test_size, (i + 1) * test_size) for i in range(k)]
 
@@ -57,7 +57,7 @@ def cross_validate(params, data_set):
     for index, indices_range in enumerate(indices_ranges):
         cases.append(init_case(indices_range, index))
 
-    with Pool() as pool:
+    with Pool(3) as pool:
         results = pool.map(validate, cases)
 
     _accuracies = list(map(lambda r: r[0], results))
@@ -99,3 +99,34 @@ def research(params, data_set):
     research_parameter(params, data_set, 'weightsDeviation', 'odchylenie wag początkowych')
     research_parameter(params, data_set, 'hiddenNeurons', 'liczba neuronów w warstwie ukrytej')
     research_parameter(params, data_set, 'momentum', 'momentum')
+    research_parameter(params, data_set, 'validations', 'krotność walidacji krzyżowej')
+
+
+def cross_research(params, data_set):
+    def save_results(p, accuracy, epochs):
+        with open(f'./researches/CROSS_RESEARCH.txt', 'a') as results:
+            results.write(f'Accuracy = {accuracy}\n')
+            results.write(f'Epochs = {epochs}\n')
+            results.write(f'Parameters:\n')
+            results.write(f'Alpha = {p["alpha"]}\n')
+            results.write(f'Hidden neurons = {p["hiddenNeurons"]}\n')
+            results.write(f'Momentum = {p["momentum"]}\n')
+            results.write(f'Weights deviation = {p["weightsDeviation"]}\n')
+            results.write(f'Validations = {p["validations"]}\n\n')
+
+    max_accuracy = 0
+    best_params = {}
+    for p in params:
+        mean_accuracy, mean_epochs = cross_validate(p, data_set)
+        save_results(p, mean_accuracy, mean_epochs)
+        if mean_accuracy > max_accuracy:
+            print(f'NEW MAX VALUE! {mean_accuracy}')
+            max_accuracy = mean_accuracy
+            best_params = p.copy()
+        print('Value less than last...')
+
+    with open(f'./researches/CROSS_RESEARCH.txt', 'a') as results:
+        results.write(f'Best result:\n')
+        results.write(f'Accuracy = {max_accuracy}\n')
+        results.write(f'Params:\n')
+        results.write(best_params)
