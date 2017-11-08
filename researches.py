@@ -1,4 +1,5 @@
 from multiprocessing.pool import Pool
+from datetime import datetime
 
 from neural_network import MultiLayerPerceptron
 from presenter import save_plot
@@ -130,3 +131,45 @@ def cross_research(params, data_set):
         results.write(f'Accuracy = {max_accuracy}\n')
         results.write(f'Params:\n')
         results.write(best_params)
+
+
+def learn_mlp(params, data_set):
+    def save_weights():
+        now = datetime.now()
+        date_repr = f'{now.date()}_{now.time()}'.replace(':', '-').replace('.', '-')
+        np.save(f'./weights/weights_1_{date_repr}.npy', weights_1)
+        np.save(f'./weights/weights_2_{date_repr}.npy', weights_2)
+
+    classifier = MultiLayerPerceptron(
+        features=params['dataSize'],
+        classes=params['classes'],
+        hidden_neurons=params['hiddenNeurons']['value'],
+        act_func=params['actFunc'],
+        epochs=params['epochs'],
+        min_mse=params['minMSE'],
+        momentum=params['momentum']['value'],
+        learning_rate=params['alpha']['value'],
+        weights_deviation=params['weightsDeviation']['value']
+    )
+    classifier.init_weights()
+    classifier.learn(train_set=data_set)
+    weights_1, weights_2 = classifier.get_weights()
+    save_weights()
+
+
+def validate_mlp(params, data_set, weights_1, weights_2):
+    classifier = MultiLayerPerceptron(
+        features=params['dataSize'],
+        classes=params['classes'],
+        hidden_neurons=params['hiddenNeurons']['value'],
+        act_func=params['actFunc'],
+        epochs=params['epochs'],
+        min_mse=params['minMSE'],
+        momentum=params['momentum']['value'],
+        learning_rate=params['alpha']['value'],
+        weights_deviation=params['weightsDeviation']['value']
+    )
+    classifier.set_weights(weights_1, weights_2)
+    for data in data_set:
+        predicted_class = classifier.predict(data.data)
+        print(f'Image from file {data.filename} predicted as class {predicted_class}')

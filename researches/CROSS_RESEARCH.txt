@@ -1,0 +1,2109 @@
+Accuracy = 0.5734485640146019
+Epochs = 884.5454545454545
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.5559110700620135
+Epochs = 971.1212121212121
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.5059044728856051
+Epochs = 941.9090909090909
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.5640805735145359
+Epochs = 970.5454545454545
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.5565158112327924
+Epochs = 913.060606060606
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.5489620442450631
+Epochs = 942.4848484848485
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.571557373444166
+Epochs = 856.3939393939394
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.5449487619298939
+Epochs = 971.2727272727273
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.5504793948190175
+Epochs = 1000.0
+Parameters:
+Alpha = {'value': 0.07, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 69, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.07, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 33, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8755894909688013
+Epochs = 77.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8779014778325124
+Epochs = 78.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773136288998359
+Epochs = 82.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8756124794745486
+Epochs = 78.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801970443349754
+Epochs = 80.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733136288998358
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.884216748768473
+Epochs = 79.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8721674876847292
+Epochs = 78.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8790476190476191
+Epochs = 76.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773497536945813
+Epochs = 79.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8779047619047619
+Epochs = 81.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8790410509031199
+Epochs = 77.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733070607553366
+Epochs = 82.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801806239737274
+Epochs = 79.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744532019704433
+Epochs = 79.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744696223316912
+Epochs = 75.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8727487684729065
+Epochs = 79.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796321839080459
+Epochs = 79.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761740558292284
+Epochs = 77.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8721576354679803
+Epochs = 78.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784696223316912
+Epochs = 77.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778981937602627
+Epochs = 77.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8756059113300493
+Epochs = 76.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.871576354679803
+Epochs = 78.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738784893267653
+Epochs = 79.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778883415435139
+Epochs = 77.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773201970443351
+Epochs = 78.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.877320197044335
+Epochs = 76.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767356321839082
+Epochs = 76.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750180623973728
+Epochs = 78.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8819113300492611
+Epochs = 78.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767487684729064
+Epochs = 75.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750147783251231
+Epochs = 79.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8790541871921181
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8721642036124793
+Epochs = 81.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8756124794745486
+Epochs = 78.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801937602627257
+Epochs = 79.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778949096880131
+Epochs = 77.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.880752052545156
+Epochs = 80.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738916256157635
+Epochs = 78.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796223316912972
+Epochs = 78.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8727356321839081
+Epochs = 79.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738916256157635
+Epochs = 79.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733070607553367
+Epochs = 79.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.883057471264368
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8698653530377669
+Epochs = 74.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8710180623973727
+Epochs = 77.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8721576354679803
+Epochs = 74.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.871014778325123
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8721642036124795
+Epochs = 80.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8710213464696223
+Epochs = 79.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744597701149426
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778949096880131
+Epochs = 81.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8807586206896552
+Epochs = 79.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801937602627257
+Epochs = 81.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8727290640394088
+Epochs = 80.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750344827586206
+Epochs = 78.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8715960591133005
+Epochs = 77.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778981937602628
+Epochs = 81.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767487684729064
+Epochs = 80.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8779014778325124
+Epochs = 79.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761806239737273
+Epochs = 81.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784761904761906
+Epochs = 81.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8802036124794744
+Epochs = 82.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8755927750410508
+Epochs = 77.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8704334975369458
+Epochs = 81.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733234811165845
+Epochs = 79.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761806239737273
+Epochs = 77.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784597701149425
+Epochs = 77.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8813300492610837
+Epochs = 81.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750279146141215
+Epochs = 79.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801740558292283
+Epochs = 77.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761740558292284
+Epochs = 78.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8836288998357965
+Epochs = 77.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8727257799671593
+Epochs = 77.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738817733990146
+Epochs = 77.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8813399014778325
+Epochs = 80.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796223316912972
+Epochs = 76.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8692972085385879
+Epochs = 81.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738817733990147
+Epochs = 79.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738949096880131
+Epochs = 79.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784729064039409
+Epochs = 74.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767586206896552
+Epochs = 78.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733169129720855
+Epochs = 81.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750377668308703
+Epochs = 83.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773300492610838
+Epochs = 78.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8790443349753694
+Epochs = 78.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796091954022988
+Epochs = 84.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784794745484401
+Epochs = 79.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733136288998358
+Epochs = 78.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.874456486042693
+Epochs = 77.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738817733990147
+Epochs = 81.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801806239737274
+Epochs = 76.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784630541871922
+Epochs = 80.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744532019704433
+Epochs = 79.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.873888341543514
+Epochs = 75.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8704433497536945
+Epochs = 76.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8813464696223317
+Epochs = 79.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8727224958949098
+Epochs = 77.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767553366174056
+Epochs = 76.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778949096880133
+Epochs = 78.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.87616091954023
+Epochs = 82.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767487684729065
+Epochs = 80.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8756157635467978
+Epochs = 83.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738817733990147
+Epochs = 81.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.874456486042693
+Epochs = 74.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796124794745485
+Epochs = 79.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8732906403940888
+Epochs = 78.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.880177339901478
+Epochs = 78.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784663382594416
+Epochs = 81.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8692807881773399
+Epochs = 80.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.881336617405583
+Epochs = 78.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744532019704433
+Epochs = 78.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8732873563218391
+Epochs = 76.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8704334975369458
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8790541871921184
+Epochs = 77.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761904761904763
+Epochs = 79.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8756091954022989
+Epochs = 76.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761609195402299
+Epochs = 78.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8813399014778325
+Epochs = 78.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.872151067323481
+Epochs = 78.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773070607553366
+Epochs = 77.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773169129720852
+Epochs = 80.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796091954022988
+Epochs = 75.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744532019704433
+Epochs = 81.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738784893267653
+Epochs = 76.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796256157635469
+Epochs = 82.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738817733990147
+Epochs = 77.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801806239737274
+Epochs = 75.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8755960591133005
+Epochs = 78.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761806239737275
+Epochs = 75.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8790509031198687
+Epochs = 79.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8715862068965518
+Epochs = 80.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750279146141215
+Epochs = 75.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750410509031198
+Epochs = 81.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8836288998357963
+Epochs = 76.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8721642036124795
+Epochs = 83.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744532019704433
+Epochs = 83.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733169129720852
+Epochs = 77.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8727487684729065
+Epochs = 75.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761773399014778
+Epochs = 75.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784630541871922
+Epochs = 77.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761773399014778
+Epochs = 77.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8698653530377669
+Epochs = 76.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8790377668308704
+Epochs = 79.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8853464696223318
+Epochs = 77.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761871921182266
+Epochs = 77.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761707717569788
+Epochs = 79.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778817733990149
+Epochs = 82.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733070607553366
+Epochs = 75.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750344827586207
+Epochs = 83.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801904761904762
+Epochs = 76.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8807553366174055
+Epochs = 79.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761707717569787
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.873888341543514
+Epochs = 82.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8715960591133005
+Epochs = 77.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.873881773399015
+Epochs = 78.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8830574712643677
+Epochs = 75.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773300492610838
+Epochs = 77.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8739014778325125
+Epochs = 79.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796157635467979
+Epochs = 78.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773169129720854
+Epochs = 75.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761642036124796
+Epochs = 77.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733037766830869
+Epochs = 77.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.87159934318555
+Epochs = 79.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8698620689655172
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8704302134646962
+Epochs = 77.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8813464696223317
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761740558292281
+Epochs = 79.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761773399014778
+Epochs = 79.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767520525451559
+Epochs = 77.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796059113300494
+Epochs = 77.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8824926108374385
+Epochs = 77.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.873303776683087
+Epochs = 76.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8755927750410508
+Epochs = 78.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733234811165845
+Epochs = 76.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738883415435138
+Epochs = 76.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744597701149426
+Epochs = 79.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778981937602627
+Epochs = 76.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8813563218390804
+Epochs = 76.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8721543513957306
+Epochs = 84.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761707717569788
+Epochs = 80.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8744466338259441
+Epochs = 81.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8761839080459769
+Epochs = 75.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8773136288998359
+Epochs = 80.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796091954022989
+Epochs = 77.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8755829228243022
+Epochs = 76.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8681477832512314
+Epochs = 76.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8710049261083743
+Epochs = 78.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8721642036124795
+Epochs = 76.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8778981937602627
+Epochs = 78.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.872752052545156
+Epochs = 78.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.87959934318555
+Epochs = 76.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.871576354679803
+Epochs = 76.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750377668308703
+Epochs = 81.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750213464696224
+Epochs = 76.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784663382594416
+Epochs = 76.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.877320197044335
+Epochs = 76.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8784696223316913
+Epochs = 82.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8698686371100164
+Epochs = 77.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767619047619049
+Epochs = 78.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8779047619047619
+Epochs = 77.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8727159277504105
+Epochs = 77.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8807553366174055
+Epochs = 79.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8802036124794744
+Epochs = 76.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8818981937602628
+Epochs = 74.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8755862068965519
+Epochs = 77.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8796026272577997
+Epochs = 84.7
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8801740558292283
+Epochs = 76.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8715829228243022
+Epochs = 80.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.87216091954023
+Epochs = 76.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8790279146141214
+Epochs = 80.8
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.880183908045977
+Epochs = 78.3
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750213464696224
+Epochs = 74.5
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.881343185550082
+Epochs = 77.2
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.871024630541872
+Epochs = 78.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8755894909688013
+Epochs = 78.1
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8750279146141215
+Epochs = 85.4
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.871008210180624
+Epochs = 75.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8733169129720855
+Epochs = 81.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.875031198686371
+Epochs = 77.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8767323481116586
+Epochs = 77.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8715894909688015
+Epochs = 80.9
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8738653530377668
+Epochs = 76.0
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Accuracy = 0.8715862068965518
+Epochs = 76.6
+Parameters:
+Alpha = {'value': 0.009, 'min': 0.005, 'max': 0.18, 'step': 0.005}
+Hidden neurons = {'value': 70, 'min': 10, 'max': 70, 'step': 2}
+Momentum = {'value': 0.95, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Weights deviation = {'value': 0.09, 'min': 0.0, 'max': 1.0, 'step': 0.05}
+Validations = {'value': 10, 'min': 2, 'max': 50, 'step': 2}
+
+Best result:
+Accuracy = 0.8853464696223318
+Params:

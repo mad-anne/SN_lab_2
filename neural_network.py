@@ -48,6 +48,13 @@ class MultiLayerPerceptron:
         self.weights_1 = 2 * deviation * np.random.rand(self.features + 1, self.hidden_neurons) - deviation
         self.weights_2 = 2 * deviation * np.random.rand(self.hidden_neurons + 1, self.classes) - deviation
 
+    def set_weights(self, weights_1, weights_2):
+        self.weights_1 = weights_1
+        self.weights_2 = weights_2
+
+    def get_weights(self):
+        return self.weights_1, self.weights_2
+
     def _learn_epoch(self, data_set, momentum):
         self.last_weights_1_update = np.zeros((self.features + 1, self.hidden_neurons))
         self.last_weights_2_update = np.zeros((self.hidden_neurons + 1, self.classes))

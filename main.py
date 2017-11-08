@@ -1,7 +1,7 @@
 from activation_function import SigmoidFunction
-from dataset import read_data_set
+from dataset import read_data_set, read_validate_set
 from parameters import read_parameters
-from researches import cross_research, research
+from researches import cross_research, research, learn_mlp, validate_mlp
 import numpy as np
 
 
@@ -22,6 +22,12 @@ def get_crossed_params(params):
     return crossed_params
 
 
+def get_learn_params(params):
+    params_copy = params.copy()
+    for param_name in params['learn']['params']:
+        params_copy[param_name]['value'] = params['learn']['params'][param_name]
+    return params_copy
+
 if __name__ == "__main__":
     params = read_parameters('parameters.json')
     params['actFunc'] = SigmoidFunction()
@@ -37,5 +43,14 @@ if __name__ == "__main__":
         crossed_params = get_crossed_params(params)
         cross_research(crossed_params, data_set)
 
-    if params['validate']:
-        data_set = read_data_set(params['validateDir'], params['validateExt'])
+    if params['learn']['opt']:
+        data_set = read_data_set(params['dataSetDir'], params['dataSetExt'])
+        np.random.shuffle(data_set)
+        learn_params = get_learn_params(params)
+        learn_mlp(learn_params, data_set)
+
+    if params['validate']['opt']:
+        data_set = read_validate_set(params['validate']['dir'], params['validate']['ext'])
+        weights_1 = np.load(params['validate']['weights_1'])
+        weights_2 = np.load(params['validate']['weights_2'])
+        validate_mlp(get_learn_params(params), data_set, weights_1, weights_2)
