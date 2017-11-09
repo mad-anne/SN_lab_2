@@ -23,3 +23,9 @@ def dot(matrix_a, matrix_b):
         sum([matrix_a[row_a, i] * matrix_b[i, col_b] for i in range(cols_a)])
         for row_a in range(rows_a) for col_b in range(cols_b)]
     return np.reshape(np.array(result), (rows_a, cols_b))
+
+
+def multiply(matrix, coefficient):
+    rows, cols = matrix.shape
+    result = [matrix.item((row, col)) * coefficient for row in range(rows) for col in range(cols)]
+    return np.reshape(np.array(result), (rows, cols))

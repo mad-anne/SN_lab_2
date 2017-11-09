@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 
-from matrix import transpose, dot
+from matrix import dot, multiply, transpose
 
 
 class MatrixTestCase(unittest.TestCase):
@@ -17,4 +17,9 @@ class MatrixTestCase(unittest.TestCase):
     def test_dot(self):
         matrix_c = dot(self.matrix_a, self.matrix_b)
         result_matrix = np.reshape(np.array([3, 6, 9, 7, 14, 21]), (2, 3))
+        self.assertTrue(np.array_equal(matrix_c, result_matrix))
+
+    def test_multiply(self):
+        matrix_c = multiply(self.matrix_a, 0.5)
+        result_matrix = np.reshape(np.array([0.5, 1.0, 1.5, 2.0]), (2, 2))
         self.assertTrue(np.array_equal(matrix_c, result_matrix))
