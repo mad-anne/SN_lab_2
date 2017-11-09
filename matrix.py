@@ -17,12 +17,9 @@ def dot(matrix_a, matrix_b):
 
     if cols_a != rows_b:
         raise DimensionException(
-            f'Array with shape ({rows_a}, {cols_a}) and ({rows_b}, {cols_b}) do not match dimensions!')
+            f'Arrays with shape ({rows_a}, {cols_a}) and ({rows_b}, {cols_b}) do not match dimensions!')
 
-    result = []
-    for row_a in range(rows_a):
-        for col_b in range(cols_b):
-            slice_a = matrix_a[row_a, :]
-            slice_b = matrix_b[:, col_b]
-            result.append(sum([slice_a[i] * slice_b[i] for i in range(len(slice_a))]))
+    result = [
+        sum([matrix_a[row_a, i] * matrix_b[i, col_b] for i in range(cols_a)])
+        for row_a in range(rows_a) for col_b in range(cols_b)]
     return np.reshape(np.array(result), (rows_a, cols_b))
