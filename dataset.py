@@ -1,3 +1,5 @@
+from multiprocessing.pool import Pool
+
 import numpy as np
 import os
 from PIL import Image
@@ -5,40 +7,30 @@ from PIL import Image
 CLASSES = 10
 
 
-def _get_output_pattern(label):
-    output = np.zeros(CLASSES)
-    output[label] = 1
-    return np.reshape(output, (1, CLASSES))
-
-
 class Data:
-    def __init__(self, data, filename, label=None):
+    def __init__(self, data, path, label):
         self.data = np.reshape(np.array(data), (1, len(data)))
-        if label:
-            self.label = int(label)
-            self.output = _get_output_pattern(self.label)
-        self.filename = filename
+        self.label = int(label)
+        self.output = np.reshape(np.array(data), (1, len(data)))
+        self.filename = path
 
 
-def _get_data_set_filenames(directory, ext):
-    return [filename for filename in os.listdir(directory) if filename.endswith(ext)]
+def _get_data_set_paths(directory):
+    return (
+        directory + folder + '/' + path
+        for folder in os.listdir(directory)
+        for path in os.listdir(directory + folder)
+    )
 
 
-def _get_image_data(directory, filename, check_label=False):
-    im = Image.open(directory + filename, 'r').convert('1')
+def _get_image_data(path):
+    im = Image.open(path, 'r').convert('1')
     data = [int(d == 255) for d in list(im.getdata())]
-    return Data(data, filename, filename[0]) if check_label else Data(data, filename)
+    return Data(data, path, path.split('/')[-2])
 
 
-def read_data_set(directory, ext):
-    return [
-        _get_image_data(directory, fn)
-        for fn in _get_data_set_filenames(directory, ext)
-    ]
-
-
-def read_validate_set(directory, ext):
-    return [
-        _get_image_data(directory, fn, check_label=False)
-        for fn in _get_data_set_filenames(directory, ext)
-    ]
+def read_data_set(directory):
+    paths = _get_data_set_paths(directory)
+    with Pool(4) as pool:
+        results = pool.map(_get_image_data, paths)
+    return results

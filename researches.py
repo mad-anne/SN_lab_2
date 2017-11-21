@@ -34,7 +34,7 @@ def cross_validate(params, data_set):
     def init_case(indices_range, k):
         classifier = MultiLayerPerceptron(
             features=params['dataSize'],
-            classes=params['classes'],
+            outputs=params['outputs'],
             hidden_neurons=params['hiddenNeurons']['value'],
             act_func=params['actFunc'],
             epochs=params['epochs'],
@@ -142,7 +142,7 @@ def learn_mlp(params, data_set):
 
     classifier = MultiLayerPerceptron(
         features=params['dataSize'],
-        classes=params['classes'],
+        outputs=params['outputs'],
         hidden_neurons=params['hiddenNeurons']['value'],
         act_func=params['actFunc'],
         epochs=params['epochs'],
@@ -160,7 +160,7 @@ def learn_mlp(params, data_set):
 def validate_mlp(params, data_set, weights_1, weights_2):
     classifier = MultiLayerPerceptron(
         features=params['dataSize'],
-        classes=params['classes'],
+        outputs=params['outputs'],
         hidden_neurons=params['hiddenNeurons']['value'],
         act_func=params['actFunc'],
         epochs=params['epochs'],

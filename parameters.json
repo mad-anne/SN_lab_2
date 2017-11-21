@@ -22,8 +22,8 @@
   "minMSE": 0.05,
   "epochs": 1000,
 
-  "dataSize": 70,
-  "classes": 10,
+  "dataSize": 784,
+  "outputs": 784,
 
   "alpha": {
     "value": 0.01,
@@ -60,7 +60,8 @@
     "step": 2
   },
 
-  "dataSetDir": "./dataset/",
+  "trainingSetDir": "./dataset/training/",
+  "testingSetDir": "./dataset//testing/",
   "dataSetExt": ".png",
 
   "crossParams": {

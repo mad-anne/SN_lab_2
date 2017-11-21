@@ -7,10 +7,10 @@ def _feed_forward_layer(inputs, weights, act_func):
 
 class MultiLayerPerceptron:
     def __init__(
-            self, features, classes, hidden_neurons, act_func, epochs, min_mse, momentum,
+            self, features, outputs, hidden_neurons, act_func, epochs, min_mse, momentum,
             learning_rate, weights_deviation):
         self.features = features
-        self.classes = classes
+        self.outputs = outputs
         self.hidden_neurons = hidden_neurons
         self.epochs = epochs
         self.min_mse = min_mse
@@ -20,10 +20,10 @@ class MultiLayerPerceptron:
         self.act_func = act_func
         self.bias = np.ones((1, 1))
         self.weights_1 = 2 * np.random.rand(self.features + 1, self.hidden_neurons) - 1
-        self.weights_2 = 2 * np.random.rand(self.hidden_neurons + 1, self.classes) - 1
+        self.weights_2 = 2 * np.random.rand(self.hidden_neurons + 1, self.outputs) - 1
         self.errors_sum = 0
         self.last_weights_1_update = np.zeros((self.features + 1, self.hidden_neurons))
-        self.last_weights_2_update = np.zeros((self.hidden_neurons + 1, self.classes))
+        self.last_weights_2_update = np.zeros((self.hidden_neurons + 1, self.outputs))
 
     def predict(self, data):
         outputs = self._predict(data)
@@ -46,7 +46,7 @@ class MultiLayerPerceptron:
     def init_weights(self):
         deviation = self.weights_deviation
         self.weights_1 = 2 * deviation * np.random.rand(self.features + 1, self.hidden_neurons) - deviation
-        self.weights_2 = 2 * deviation * np.random.rand(self.hidden_neurons + 1, self.classes) - deviation
+        self.weights_2 = 2 * deviation * np.random.rand(self.hidden_neurons + 1, self.outputs) - deviation
 
     def set_weights(self, weights_1, weights_2):
         self.weights_1 = weights_1
@@ -57,7 +57,7 @@ class MultiLayerPerceptron:
 
     def _learn_epoch(self, data_set, momentum):
         self.last_weights_1_update = np.zeros((self.features + 1, self.hidden_neurons))
-        self.last_weights_2_update = np.zeros((self.hidden_neurons + 1, self.classes))
+        self.last_weights_2_update = np.zeros((self.hidden_neurons + 1, self.outputs))
 
         for data in data_set:
             self._backpropagate(self._predict(data.data), data.output, data.data, momentum)
