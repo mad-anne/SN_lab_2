@@ -1,74 +1,15 @@
 {
-  "research": false,
-  "crossResearch": false,
-  "learn": {
-    "opt": false,
-    "params": {
-      "hiddenNeurons": 70,
-      "alpha": 0.009,
-      "momentum": 0.95,
-      "weightsDeviation": 0.09,
-      "validations": 10
-    }
-  },
-  "validate": {
-    "opt": true,
-    "dir": "./validateset/",
-    "ext": ".png",
-    "weights_1": "./weights/weights_1_2017-11-08_21-35-41-523829.npy",
-    "weights_2": "./weights/weights_2_2017-11-08_21-35-41-523829.npy"
-  },
-
-  "minMSE": 0.05,
-  "epochs": 1000,
-
-  "dataSize": 784,
+  "inputs": 784,
+  "hiddenNeurons": 49,
   "outputs": 784,
+  "alpha": 0.001,
+  "weightsDeviation": 0.09,
+  "epochs": 10,
 
-  "alpha": {
-    "value": 0.01,
-    "min": 0.005,
-    "max": 0.18,
-    "step": 0.005
-  },
-
-  "validations": {
-    "value": 10,
-    "min": 2,
-    "max": 50,
-    "step": 2
-  },
-
-  "weightsDeviation": {
-    "value": 0.2,
-    "min": 0.0,
-    "max": 1.0,
-    "step": 0.05
-  },
-
-  "momentum": {
-    "value": 0.9,
-    "min": 0.0,
-    "max": 1.0,
-    "step": 0.05
-  },
-
-  "hiddenNeurons": {
-    "value": 20,
-    "min": 10,
-    "max": 70,
-    "step": 2
-  },
+  "keepProb": 0.8,
+  "regularizationTerm": 0.01,
 
   "trainingSetDir": "./dataset/training/",
   "testingSetDir": "./dataset//testing/",
-  "dataSetExt": ".png",
-
-  "crossParams": {
-    "hiddenNeurons": [66, 68, 70],
-    "alpha": [0.001, 0.003, 0.005, 0.007, 0.009],
-    "momentum": [0.85, 0.9, 0.95],
-    "weightsDeviation": [0.01, 0.03, 0.05, 0.07, 0.09],
-    "validations": [10]
-  }
+  "dataSetExt": ".png"
 }
