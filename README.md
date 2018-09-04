@@ -1,1 +1,3 @@
-# SN_lab_2
+# Autoencoder MLP
+
+Student project for classes.
